@@ -81,7 +81,7 @@ h6 {
   right: 15px;
   bottom: 15px;
   z-index: 99999;
-  background: #428bca;
+  background:burlywood;
   width: 40px;
   height: 40px;
   border-radius: 4px;
@@ -95,7 +95,7 @@ h6 {
 }
 
 .back-to-top:hover {
-  background: #629fd3;
+  background: rgb(228, 159, 68);
   color: #fff;
 }
 
@@ -218,7 +218,7 @@ h6 {
   font-size: 13px;
   font-weight: 500;
   text-transform: none;
-  color: #193c5a;
+  color: #f3f3f3;
 }
 
 .navbar .dropdown ul a i {
@@ -228,7 +228,7 @@ h6 {
 .navbar .dropdown ul a:hover,
 .navbar .dropdown ul .active:hover,
 .navbar .dropdown ul li:hover>a {
-  color: #428bca;
+  color: #f7d262;
 }
 
 .navbar .dropdown:hover>ul {
@@ -502,11 +502,11 @@ h6 {
   line-height: 1;
   color: #fff;
   animation-delay: 0.8s;
-  background: #428bca;
+  background: burlywood;
 }
 
 #hero .btn-get-started:hover {
-  background: #5697d0;
+  background: rgb(224, 150, 52);
 }
 
 @media (max-width: 768px) {
